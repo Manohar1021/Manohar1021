@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enugurthi Manohar</h1>
 <h3 align="center">A passionate Machine learning and frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar1021&label=Profile%20views&color=0e75b6&style=flat" alt="manohar1021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manohar1021" alt="manohar1021" /></a> </p>
-
 - 🔭 I’m currently working on **Embryo classification based on microscopic images**
 
 - 🌱 I’m currently learning **DSA and wed development**
@@ -24,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar1021&show_icons=true&locale=en&layout=compact" alt="manohar1021" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar1021&show_icons=true&locale=en" alt="manohar1021" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar1021&" alt="manohar1021" /></p>
